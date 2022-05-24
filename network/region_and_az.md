@@ -6,7 +6,7 @@
 
 - リージョン同士は地理的に離れている。
 
-![](/Users/058suke/Library/Application%20Support/marktext/images/2022-05-17-01-35-55-image.png)
+![](./images/region_map.png)
 
 > 画像: [AWS グローバルインフラストラクチャ | AWS](https://aws.amazon.com/jp/about-aws/global-infrastructure/)
 
@@ -21,7 +21,7 @@
 
 - 耐障害性を高め、システムの可用性を高めるために1つのAZのみでシステム構築するのではなく、複数のAZにシステムを構築すること。
 
-    ![](/Users/058suke/Desktop/aws_certified_solutions_architect_associate/network/multi_az_example.png)
+    ![](./images/multi_az_example.png)
 
 > 画像: マルチAZ例
 > 
